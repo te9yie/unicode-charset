@@ -7,3 +7,5 @@
 > python conv.py -c 1 src/US-ASCII-QUOTES.txt
 > python conv.py -c 2 src/JIS0208.txt
 ```
+
+- クオート、バッククォートが思っていたのと違う感じなので置き換えが必要かも
